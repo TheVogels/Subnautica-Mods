@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDT8D4GK6e/AVp9ocvIt3fMIaxkiWYR2n+3lsRKqG1ILrBms4GVSNK6Xq5ecnygfDW3hUlHKLhLChF8f/eo/Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rjaco\\source\\repos\\Subnauticas\\Oxygen Changer\\OxygenChanger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rjaco\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\rjaco\\.nuget\\packages\\unityengine.modules\\2019.4.37\\unityengine.modules.2019.4.37.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "OxygenChanger depends on UnityEngine.Modules (>= 2019.4.36.870) but UnityEngine.Modules 2019.4.36.870 was not found. An approximate best match of UnityEngine.Modules 2019.4.37 was resolved.",
+      "libraryId": "UnityEngine.Modules",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}

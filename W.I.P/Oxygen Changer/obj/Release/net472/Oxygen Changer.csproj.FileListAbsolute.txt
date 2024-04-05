@@ -1,0 +1,13 @@
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\bin\Release\net472\Oxygen_Changer.dll
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\bin\Release\net472\Oxygen_Changer.pdb
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen Changer.csproj.AssemblyReference.cache
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\MyPluginInfo.cs
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen Changer.AssemblyInfoInputs.cache
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen Changer.AssemblyInfo.cs
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen Changer.csproj.CoreCompileInputs.cache
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen_Changer.dll
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen_Changer.pdb
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\bin\Release\net472\Assembly-CSharp-firstpass_publicized.dll
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\bin\Release\net472\Assembly-CSharp_publicized.dll
+C:\Users\rjaco\source\repos\Subnauticas\Oxygen Changer\obj\Release\net472\Oxygen Changer.csproj.CopyComplete
