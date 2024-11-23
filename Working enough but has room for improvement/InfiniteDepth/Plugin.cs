@@ -53,7 +53,7 @@ namespace FinnyBeast_TheVogels.FasterVehicleModules
             .WithDepthUpgrade(float.MaxValue, true).WithOnModuleAdded((Vehicle vehicleInstance, int slotId) =>
             {
                 vehicleInstance.crushDamage.enabled = false;
-                ErrorMessage.AddMessage("Crush depth no longer is in effect.\nNote: Vehicle software is out of date, the vehicle will still complain about exceeding the depth limit.");
+                ErrorMessage.AddMessage("Crush depth no longer is in effect.\nNote: The vehicle will still warn you about the non-existent depth limit.");
             })
             .WithOnModuleRemoved((Vehicle vehicleInstance, int slotId) =>
             {
